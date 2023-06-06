@@ -246,6 +246,7 @@ html {
 
 .pricing h1 {
     font-size: 1.75em
+    color : hsl(233, 13%, 49%)
 }
 
 .pricing .toogle p {
